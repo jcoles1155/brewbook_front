@@ -1,6 +1,9 @@
+import Jumbotron from '../../components/Jumbotron/Jumbotron'
+
+
 const Home = () => {
     return (
-        <div>Home</div>
+        <Jumbotron />    
     )
 }
 
